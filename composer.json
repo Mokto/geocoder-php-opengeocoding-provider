@@ -1,11 +1,14 @@
 {
     "name": "opengeocoding/opengeocoding-provider",
     "type": "library",
-    "description": "Geocoder OpenGeocoding adapter",
+    "description": "OpenGeocoding provider for Geocoder PHP: address search and reverse geocoding on open data",
     "keywords": [
         "geocoder",
+        "geocoder-php",
         "geocoding",
+        "geocoding api",
         "reverse geocoding",
+        "address search",
         "openstreetmap",
         "opengeocoding"
     ],
